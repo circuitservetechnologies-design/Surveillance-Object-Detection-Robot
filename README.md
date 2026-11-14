@@ -1,5 +1,9 @@
 # Wi-Fi Controlled Smart Surveillance Robot
+### Front View
+![Robot Front View](Robot_F.jpeg)
 
+### Top View
+![Robot Top View](Robot_T.jpeg)
 ## Files
 - `ESP32_CAM_Robot.ino` — ESP32-CAM Wi-Fi, camera, web server and L298N motor control.
 - `webpage.h` — separate HTML/CSS/JavaScript interface served by the ESP32-CAM.
